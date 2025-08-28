@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --drop-shadow-glow-yellow: 0 0 15px rgba(250, 204, 21, 0.9); /* Tailwind yellow-400 */
+}
+
+
+@theme {
+  --font-love: "Love Ya Like A Sister", cursive;
+  --font-patrick: "Patrick Hand", cursive;
+  --font-audiowide: "Audiowide", cursive;
+}
+
